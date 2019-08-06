@@ -5,6 +5,10 @@
 Dynamic dashboard prototype using angular-gridster2 and ngx-dynamic-template
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
+# Before Start
+Install nodejs
+Install npm
+
 # Start json-server
 You need to install json server (Dashboards are generated and saved using a REST API)
 run `npm install -g json-server`
